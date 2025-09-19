@@ -1,5 +1,3 @@
-# Análisis de Amenazas y Riesgos
-Este documento identifica las amenazas principales para los activos críticos de la empresa de comercio electrónico, su probabilidad, impacto y plan de mitigación.
 # Análisis de Amenazas y Riesgos  
 Este documento identifica las amenazas principales para los activos críticos de la empresa de comercio electrónico, su probabilidad, impacto y plan de mitigación.
 
